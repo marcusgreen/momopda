@@ -10,6 +10,7 @@
 * Terminate lines with LF
 * Filenames are lowercase only
 * Class and function names are lowercase words, separated by underscores
+* Inline comments should begin with an upper case letter and end with  '.', '?' or '!'
 * In the case of legacy functions (those not placed in classes), names should start with the Frankenstyle prefix and plugin name to avoid conflicts between plugins.
 * Variable names are lowercase words, no word separator.
 * Constants should always be in upper case, and always start with Frankenstyle prefix and plugin name (in case of activities the module name only for legacy reasons). They should have words separated by underscores.
